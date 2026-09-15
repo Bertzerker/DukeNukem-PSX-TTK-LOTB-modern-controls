@@ -1,0 +1,5 @@
+*.bin
+*.cue
+*.chd
+*.exe
+__pycache__/
