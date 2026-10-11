@@ -9,6 +9,10 @@ SLUS-01002** on PlayStation.
 
 ## Important controller settings
 
+<img src="screenshots/land-of-the-babes-controller.png" alt="Land of the Babes controller menu showing the patched controls" width="420">
+
+Enter Controller Menu with caution!
+
 **Custom controls can still override the patched controls. Do not touch the
 controller mapping; leave the patched default layout unchanged.** If loading
 an older save restores a custom layout, restore the default layout in the

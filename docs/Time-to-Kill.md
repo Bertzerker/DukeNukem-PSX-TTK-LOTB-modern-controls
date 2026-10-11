@@ -9,6 +9,10 @@ on PlayStation.
 
 ## Important controller settings
 
+<img src="screenshots/time-to-kill-controller.png" alt="Time to Kill controller menu showing the patched controls" width="420">
+
+Enter Controller Menu with caution!
+
 **Custom controls can still override the patched controls. Do not touch the
 controller mapping; leave the patched default layout unchanged.** A saved custom
 layout can replace these assignments when loaded. Restore the default layout
